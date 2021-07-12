@@ -1,0 +1,9 @@
+h1 { 
+    border-style: dotted;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
